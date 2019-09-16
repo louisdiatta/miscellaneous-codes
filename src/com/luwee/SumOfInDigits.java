@@ -1,3 +1,5 @@
+package com.luwee;
+
 public class SumOfInDigits {
     public static void main(String[] args) {
 	int result, n = 452;
